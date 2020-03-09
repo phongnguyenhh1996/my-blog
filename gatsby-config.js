@@ -4,7 +4,7 @@ module.exports = {
     title: `Phong Nguyen's Blog`,
     author: `Phong Nguyen`,
     description: `Just a web developer blog, sharing my experience with every body.`,
-    siteUrl: `https://phongnhh-blog.netlify.com/`,
+    siteUrl: `https://nervous-kowalevski-8e4d36.netlify.com/`,
     social: {
       twitter: `kylemathews`,
     },
